@@ -1,0 +1,9 @@
+{
+  "id": "01",
+  "name": "Tom",
+  "lastname": "Price",
+  "books": [
+    "1984",
+    "We"
+  ]
+}
